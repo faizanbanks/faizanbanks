@@ -8,7 +8,7 @@ I help digital marketing, SEO, and creative agencies scale their technical deliv
 - 🤝 Focused on **Client Acquisition, Project Architecture & Agency Partnerships** (US, UK & AU)
 - 🔍 Offering **Free Technical & Security Audits** for agency websites, funnels & AI builds
 - 🌐 Explore our work & live demos at **[skyignitionlabs.com](https://skyignitionlabs.com)**
-- 📫 Reach me directly via **[LinkedIn](https://www.linkedin.com/in/withfaizan/)** or Discord
+- 📫 Reach me directly via **[LinkedIn](https://www.linkedin.com/in/withfaizan/)**
 
 ---
 
