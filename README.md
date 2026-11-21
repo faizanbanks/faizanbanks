@@ -2,7 +2,8 @@
 
 ### Co-Founder & Growth Lead at Sky Ignition Labs
 
-I help digital marketing, SEO, and creative agencies scale their technical delivery without adding full-time engineering overhead. At **Sky Ignition Labs**, I lead client partnerships, technical scoping, and white-label project execution across web development, AI automation, and security hardening.
+I help digital marketing, SEO, and creative agencies scale their technical delivery without adding full-time engineering overhead. 
+At **Sky Ignition Labs**, I lead client partnerships, technical scoping, and white-label project execution across web development, AI automation, and security hardening.
 
 - 🚀 Co-Founder at **[Sky Ignition Labs](https://skyignitionlabs.com)** — White-label web, AI & security partner for agencies
 - 🤝 Focused on **Client Acquisition, Project Architecture & Agency Partnerships** (US, UK & AU)
